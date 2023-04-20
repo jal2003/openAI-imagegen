@@ -1,4 +1,4 @@
-# openAI-imagegen
+# OpenAI Image Generator
 
 Experimenting with OPEN AI platform to build an application that generates images based on text 
 
@@ -13,7 +13,7 @@ My free trial for the OPEN AI API key expired so the app does not function as it
 
 
 
-# OpenAI Image Generator
+
 
 This is a simple image generator built with Node.js and Express that uses [OpenAI's Dall-E models](https://beta.openai.com/docs/guides/images) to generate images.
 
